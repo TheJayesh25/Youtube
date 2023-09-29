@@ -1,2 +1,3 @@
 # Youtube
-Hi! Created this Youtube like website using only HTML &amp; CSS. Started this project inorder to brush up my HTML/ CSS skills.
+Created this Youtube clone using only HTML &amp; CSS inorder to brush up my skills.
+Both the files are attached
